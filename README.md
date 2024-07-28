@@ -1,41 +1,51 @@
-# Website
+# 웹사이트
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+이 웹사이트는 현대적인 정적 웹사이트 생성기인 [Docusaurus 2](https://docusaurus.io/)를 사용하여 만들어졌습니다.
 
-### Installation
-
-```
-$ yarn
-```
-
-### Local Development
+### 설치
 
 ```
-$ yarn start
-```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
+$ 원사
 
 ```
-$ yarn build
-```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
+### 지역 개발
 
 ```
-$ USE_SSH=true yarn deploy
-```
 
-Not using SSH:
+$ 원사 시작
 
 ```
-$ GIT_USER=<Your GitHub username> yarn deploy
+
+이 명령은 로컬 개발 서버를 시작하고 브라우저 창을 엽니다. 대부분의 변경 사항은 서버를 다시 시작할 필요 없이 실시간으로 반영됩니다.
+
+### 빌드
+
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+$ 원사 빌드
+
+```
+
+이 명령은 `빌드` 디렉토리에 정적 콘텐츠를 생성하고 모든 정적 콘텐츠 호스팅 서비스를 사용하여 제공할 수 있습니다.
+
+### 배치
+
+SSH 사용하기:
+
+```
+
+$ USE_SSH=진정한 원사 배포
+
+```
+
+SSH를 사용하지 않음:
+
+```
+
+$ GIT_USER=<GitHub 사용자 이름> 원사 배포
+
+```
+
+호스팅을 위해 GitHub 페이지를 사용하는 경우, 이 명령은 웹사이트를 구축하고 `gh-pages` 브랜치로 푸시하는 편리한 방법입니다.
