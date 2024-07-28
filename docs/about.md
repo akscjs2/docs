@@ -1,16 +1,19 @@
 ---
-sidebar_position: 1
-slug: /
+
+사이드바_위치: 1
+
+민달팽이: /
+
 ---
 
-# About
+# 약
 
-Hi,
+안녕,
 
-We’re shocknet and we make open-source, decentralized apps for the Bitcoin Lightning Network, using Nostr.
+우리는 쇼크넷이며 Nostr를 사용하여 비트코인 라이트닝 네트워크를 위한 오픈 소스, 분산형 앱을 만듭니다.
 
-We also provide hosting services to use them with, like a CDN for sharing video, and professional relays for Nostr.
+우리는 또한 비디오 공유를 위한 CDN과 Nostr의 전문 릴레이와 같이 그것들을 사용할 수 있는 호스팅 서비스를 제공합니다.
 
-By using our services, you’ll help us to keep improving the software to build a powerful Bitcoin circular economy. We look forward to serving you!
+우리의 서비스를 사용함으로써, 당신은 우리가 강력한 비트코인 순환 경제를 구축하기 위해 소프트웨어를 계속 개선하는 데 도움이 될 것입니다. 우리는 당신을 섬기기를 고대하고 있습니다!
 
--The Shock Team
+-쇼크 팀
